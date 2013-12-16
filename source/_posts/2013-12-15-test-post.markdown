@@ -1,0 +1,9 @@
+---
+layout: post
+title: "test post"
+date: 2013-12-15 21:41:37 -0500
+comments: true
+categories: 
+---
+
+<i class="fa fa-ruble"></i>
