@@ -1,4 +1,4 @@
-$max-width: 550px;
+$max-width: 800px;
 
 *{
 	margin: 0;
@@ -7,7 +7,7 @@ $max-width: 550px;
 body{
 	font-family: $font-default;
 	font-size: 18px;
-	font-weight: 300;
+	font-weight: 400;
 	line-height: 1.5;
 	background: $color-background;
     color: $color-gray01;
@@ -21,35 +21,17 @@ body{
 }
 
 h1{
-	font-size: 36px;
+
 }
 h2{
-	font-size: 36px;
-	line-height:1;
-	font-weight:300;
+
 }
 h3{
-	font-size: 20px;
-	line-height: 1.2;
-	margin: 1.2em 0 0 0;
-	font-weight: normal;
-	display: block;
-	@media screen and (max-width: 620px) {
-	font-size: 15px;
-		}
-	}
-a {
- 	text-decoration:none;
-	color:#bf0222;
-	-webkit-transition:border .25s linear;
-	-moz-transition:border .25s linear;
-	-ms-transition:border .25s linear;
-	transition:border .25s linear;
-	outline:none;
+
 }
 
+
 a:hover {
-	border-bottom:1px solid #bf0222;
 }
 
 .alignleft{

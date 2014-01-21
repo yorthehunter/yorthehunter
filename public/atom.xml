@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-01-20T15:01:08-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Brian Cleveland]]></title>
+  <link href="http://yorthehunter.github.io/atom.xml" rel="self"/>
+  <link href="http://yorthehunter.github.io/"/>
+  <updated>2014-01-20T17:12:16-05:00</updated>
+  <id>http://yorthehunter.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Brian Cleveland]]></name>
     
   </author>
 
   
   <entry>
     <title type="html"><![CDATA[some other fucking thing]]></title>
-    <link href="http://yoursite.com/blog/2014/01/20/some-other-fucking-thing/"/>
+    <link href="http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing/"/>
     <updated>2014-01-20T12:16:30-05:00</updated>
-    <id>http://yoursite.com/blog/2014/01/20/some-other-fucking-thing</id>
+    <id>http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing</id>
     <content type="html"><![CDATA[<p>sdaf asdf asdf asdf asdf
 asd fasdf asd
 f dsaf asdf asdf asdf asdf
@@ -32,10 +32,10 @@ sad fasdf asdf</p>
   
   <entry>
     <title type="html"><![CDATA[test post]]></title>
-    <link href="http://yoursite.com/blog/2013/12/15/test-post/"/>
+    <link href="http://yorthehunter.github.io/blog/2013/12/15/test-post/"/>
     <updated>2013-12-15T21:41:37-05:00</updated>
-    <id>http://yoursite.com/blog/2013/12/15/test-post</id>
-    <content type="html"><![CDATA[<p><i class="fa fa-ruble"></i></p>
+    <id>http://yorthehunter.github.io/blog/2013/12/15/test-post</id>
+    <content type="html"><![CDATA[<p><i class="fa fa-dot-circle-o"></i></p>
 ]]></content>
   </entry>
   

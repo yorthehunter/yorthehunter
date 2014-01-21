@@ -5,3 +5,12 @@ $color-main: #960d20;
 // $color-gray03: #ccc;
 // $color-gray04: #ddd;
 // $color-gray05: #fff;
+
+$orange: #f7be1e;
+$orange-dim: #cc8200;
+$orange-bright: #ffe088;
+
+$link-base-color:    $orange;
+$link-visited-color: $orange;
+$link-hover-color:   $orange-dim;
+$link-active-color:  $orange-bright;

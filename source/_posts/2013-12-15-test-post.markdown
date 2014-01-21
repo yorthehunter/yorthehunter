@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-<i class="fa fa-ruble"></i>
+<i class="fa fa-dot-circle-o"></i>
