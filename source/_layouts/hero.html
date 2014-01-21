@@ -2,11 +2,7 @@
 {% include head.html %}
 
   <body>
-    {% if page.url == '/index.html' %}
-      {% include header.html %}
-    {% else %}
-      {% include mini-header.html %}
-    {% endif %}
+    {% include header.html %}
 
     <div id="content" class="inner">{{ content | expand_urls: root_url }}</div>
     <footer id="footer" class="inner">{% include footer.html %}</footer>
