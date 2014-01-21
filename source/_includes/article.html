@@ -1,13 +1,13 @@
 {% if index %}
 	<header>
-		<h2 class="title">
+		<h1 class="h2 title">
 			{% if post.external-url %}
 			<a href="{{ post.external-url }}">
 			{% else %}
 			<a href="{{ root_url }}{{ post.url }}">
 			{% endif %}
 				{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
-		</h2>
+		</h1>
 		<div class="meta date">{% include post/date.html %}{{ time }}</div>
 	</header>
 	<div class="entry-content">
@@ -17,7 +17,9 @@
 	</div>
 {% else %}
 	<header>
-		<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
+		<h1 class="title">
+      {% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
+    </h1>
 		<div class="meta date">{% include post/date.html %}{{ time }}</div>
 	</header>
 	<div class="entry-content">{{ content }}</div>
