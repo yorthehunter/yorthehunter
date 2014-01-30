@@ -2,33 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1059a6-e8c0-40f5-b20b-368d2055989e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/navigation.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" afterPath="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_color.scss" afterPath="$PROJECT_DIR$/sass/base/_color.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_color.scss" afterPath="$PROJECT_DIR$/sass/custom/_color.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/parts/_header.scss" afterPath="$PROJECT_DIR$/sass/parts/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_layout.scss" afterPath="$PROJECT_DIR$/sass/custom/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/about.html" afterPath="$PROJECT_DIR$/source/_includes/asides/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="$PROJECT_DIR$/public/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/jesus/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/jesus/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/poopmouth/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/poopmouth/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/roleplay/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/roleplay/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/zapfino-font/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/zapfino-font/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/header.html" afterPath="$PROJECT_DIR$/source/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/hero.html" afterPath="$PROJECT_DIR$/source/_layouts/hero.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/index.html" afterPath="$PROJECT_DIR$/public/blog/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" afterPath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" afterPath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="$PROJECT_DIR$/public/blog/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/cards/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/cards/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/hydroponics/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/hydroponics/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/jesus/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/jesus/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/poopmouth/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/poopmouth/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/roleplay/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/roleplay/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/zapfino-font/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/zapfino-font/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/mini-header.html" afterPath="$PROJECT_DIR$/source/_includes/mini-header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/navigation.html" afterPath="$PROJECT_DIR$/source/_includes/navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/octopress.iml" afterPath="$PROJECT_DIR$/.idea/octopress.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/screen.css" afterPath="$PROJECT_DIR$/public/stylesheets/screen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="$PROJECT_DIR$/sass/screen.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="octopress.iws" />
@@ -100,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mini-header.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mini-header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.25139666" vertical-offset="0" max-vertical-offset="537">
+            <state line="7" column="24" selection-start="348" selection-end="348" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="72" selection-start="113" selection-end="113" vertical-scroll-proportion="0.02918288" vertical-offset="0" max-vertical-offset="514">
               <folding />
             </state>
           </provider>
@@ -172,8 +176,8 @@
         <option value="$PROJECT_DIR$/source/_includes/asides/about.html" />
         <option value="$PROJECT_DIR$/source/_includes/navigation.html" />
         <option value="$PROJECT_DIR$/source/_includes/head.html" />
-        <option value="$PROJECT_DIR$/source/_includes/header.html" />
         <option value="$PROJECT_DIR$/source/_includes/mini-header.html" />
+        <option value="$PROJECT_DIR$/source/_includes/header.html" />
       </list>
     </option>
   </component>
@@ -877,16 +881,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
+    <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="296" selection-end="296" vertical-scroll-proportion="0.14591439" vertical-offset="0" max-vertical-offset="514">
+        <state line="7" column="24" selection-start="348" selection-end="348" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
+    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.25139666" vertical-offset="0" max-vertical-offset="537">
+        <state line="1" column="72" selection-start="113" selection-end="113" vertical-scroll-proportion="0.02918288" vertical-offset="0" max-vertical-offset="514">
           <folding />
         </state>
       </provider>
