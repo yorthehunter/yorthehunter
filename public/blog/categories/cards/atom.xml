@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cards | Brian Cleveland]]></title>
+  <link href="http://yorthehunter.github.io/blog/categories/cards/atom.xml" rel="self"/>
+  <link href="http://yorthehunter.github.io/"/>
+  <updated>2014-01-30T09:30:38-05:00</updated>
+  <id>http://yorthehunter.github.io/</id>
+  <author>
+    <name><![CDATA[Brian Cleveland]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[some other fucking thing]]></title>
+    <link href="http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing/"/>
+    <updated>2014-01-20T12:16:30-05:00</updated>
+    <id>http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing</id>
+    <content type="html"><![CDATA[<p>``` ruby Discover if a number is prime <a href="http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/">http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/</a> Source Article
+class Fixnum
+  def prime?</p>
+
+<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
+</code></pre>
+
+<p>  end
+end
+```</p>
+
+<!-- more -->
+
+
+
+
+<!-- <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/iOvaSOFLtJU "></iframe></div> -->
+
+]]></content>
+  </entry>
+  
+</feed>

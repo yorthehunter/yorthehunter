@@ -4,7 +4,7 @@
   <title><![CDATA[Brian Cleveland]]></title>
   <link href="http://yorthehunter.github.io/atom.xml" rel="self"/>
   <link href="http://yorthehunter.github.io/"/>
-  <updated>2014-01-29T20:51:55-05:00</updated>
+  <updated>2014-01-30T09:30:38-05:00</updated>
   <id>http://yorthehunter.github.io/</id>
   <author>
     <name><![CDATA[Brian Cleveland]]></name>
@@ -17,22 +17,27 @@
     <link href="http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing/"/>
     <updated>2014-01-20T12:16:30-05:00</updated>
     <id>http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing</id>
-    <content type="html"><![CDATA[<p>Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor,
-lacus lacus ornare ante, ac egestas est urna sit amet arcu. Class aptent taciti sociosqu ad
-litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie augue sit amet leo
-consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-cubilia Curae; Proin vel ante a orci tempus eleifend ut et magna. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In
-condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac
-euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum
-mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra.</p>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 
 <!-- more -->
 
 
 
 
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/iOvaSOFLtJU "></iframe></div>
+<!-- <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/iOvaSOFLtJU "></iframe></div> &#8211;>
 
 ]]></content>
   </entry>

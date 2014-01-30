@@ -1,70 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1059a6-e8c0-40f5-b20b-368d2055989e" name="Default" comment="" />
+    <list default="true" id="1c1059a6-e8c0-40f5-b20b-368d2055989e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/navigation.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" afterPath="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_color.scss" afterPath="$PROJECT_DIR$/sass/base/_color.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_color.scss" afterPath="$PROJECT_DIR$/sass/custom/_color.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/parts/_header.scss" afterPath="$PROJECT_DIR$/sass/parts/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_layout.scss" afterPath="$PROJECT_DIR$/sass/custom/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/about.html" afterPath="$PROJECT_DIR$/source/_includes/asides/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="$PROJECT_DIR$/public/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/header.html" afterPath="$PROJECT_DIR$/source/_includes/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/hero.html" afterPath="$PROJECT_DIR$/source/_layouts/hero.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/index.html" afterPath="$PROJECT_DIR$/public/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" afterPath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" afterPath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="$PROJECT_DIR$/public/blog/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/mini-header.html" afterPath="$PROJECT_DIR$/source/_includes/mini-header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/navigation.html" afterPath="$PROJECT_DIR$/source/_includes/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/octopress.iml" afterPath="$PROJECT_DIR$/.idea/octopress.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/screen.css" afterPath="$PROJECT_DIR$/public/stylesheets/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="$PROJECT_DIR$/sass/screen.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="octopress.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390445207499" ignored="false" />
-    <file path="/2013-12-15-this-is-only-a-test.markdown" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1387149795140" ignored="false" />
-    <file path="/.gitignore" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1387150117862" ignored="false" />
-    <file path="/screen.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1387162724977" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/spectre/Gemfile" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390185108556" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/spectre/app/controllers/shipments_controller.rb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390185108556" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/spectre/app/controllers/pick_slips_controller.rb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390185108556" ignored="false" />
-    <file path="/2014-01-20-some-other-fucking-thing.markdown" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390238603379" ignored="false" />
-    <file path="/header.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390273406833" ignored="false" />
-    <file path="/a.dummy" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390492386439" ignored="false" />
-    <file path="/_plugins.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390506275154" ignored="false" />
-    <file path="/_font.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390251510965" ignored="false" />
-    <file path="/_header.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390274703539" ignored="false" />
-    <file path="/_color.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390255459403" ignored="false" />
-    <file path="/_config.yml" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390274022677" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/twitter.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390254838409" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/github.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390254838410" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/pinboard.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390254838410" ignored="false" />
-    <file path="/_links.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390255026462" ignored="false" />
-    <file path="/_base.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390255494034" ignored="false" />
-    <file path="/a.rxml" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390255594733" ignored="false" />
-    <file path="/a.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390255602139" ignored="false" />
-    <file path="/_parts.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390255769492" ignored="false" />
-    <file path="/_typography.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390272234235" ignored="false" />
-    <file path="/article.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390273163453" ignored="false" />
-    <file path="/hero.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390274461869" ignored="false" />
-    <file path="/mini-header.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390274529053" ignored="false" />
-    <file path="/default.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390318176038" ignored="false" />
-    <file path="/index.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276182730" ignored="false" />
-    <file path="/post.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390275686818" ignored="false" />
-    <file path="/page.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390275242858" ignored="false" />
-    <file path="/category_index.html" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390275288324" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/libs/ender.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/modernizr-2.0.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/stylesheets/screen.css" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/octopress.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/ender.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/jquery.fancybox.pack.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/hyphenator.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/libs/swfobject-dynamic.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/libs/jquery.min.js" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/public/assets/jwplayer/glow/glow.xml" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390276531969" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/king_mob/Gemfile" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390426925276" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/king_mob/app/assets/stylesheets/application.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390429460597" ignored="false" />
-    <file path="/application.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390498604686" ignored="false" />
-    <file path="/_bootswatch.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390426416300" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/king_mob/app/assets/stylesheets/_bootswatch.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390429464663" ignored="false" />
-    <file path="$USER_HOME$/Downloads/bootswatch.less" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390429169309" ignored="false" />
-    <file path="/bootswatch.less" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390428927612" ignored="false" />
-    <file path="/_bootswatch.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390429311700" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/views/home/logged_out.html.erb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390431172017" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/config/locales/en.yml" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390431172018" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/views/layouts/application.html.erb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390431172018" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/Gemfile" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390498153027" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/views/home/index.html.erb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390432244638" ignored="false" />
-    <file path="/index.html.erb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390432080535" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/assets/stylesheets/stitch-fix-bootstrap.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390432252742" ignored="false" />
-    <file path="/stitch-fix-bootstrap.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390432139504" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/assets/stylesheets/application.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390498668080" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/assets/stylesheets/_bootswatch.css.scss" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390499509769" ignored="false" />
-    <file path="$PROJECT_DIR$/../../stitchfix/fashionthing/app/views/style-guide/branding/_colors.html.erb" changelist="1c1059a6-e8c0-40f5-b20b-368d2055989e" time="1390492297670" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,67 +55,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hero.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_layouts/hero.html">
+      <file leaf-file-name="_skins.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/custom/_skins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="-6.875">
+            <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_rve.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/octopress-responsive-video-embed-master/_rve.scss">
+      <file leaf-file-name="_header.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/parts/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+            <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_rve.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/plugins/_rve.scss">
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+            <state line="2" column="21" selection-start="91" selection-end="91" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <file leaf-file-name="nav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="18" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+            <state line="2" column="30" selection-start="107" selection-end="107" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_plugins.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sass/_plugins.scss">
+      <file leaf-file-name="navigation.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_includes/navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-01-20-some-other-fucking-thing.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="mini-header.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="25" selection-start="989" selection-end="989" vertical-scroll-proportion="-11.666667">
+            <state line="9" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.25139666" vertical-offset="0" max-vertical-offset="537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
+      <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+            <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footnote.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/custom/_footnote.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -171,30 +145,43 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/_layouts/hero.html" />
-        <option value="$PROJECT_DIR$/sass/parts/_header.scss" />
         <option value="$PROJECT_DIR$/source/_layouts/page.html" />
         <option value="$PROJECT_DIR$/source/_layouts/category_index.html" />
         <option value="$PROJECT_DIR$/source/_layouts/post.html" />
         <option value="$PROJECT_DIR$/source/blog/index.html" />
-        <option value="$PROJECT_DIR$/source/_includes/header.html" />
-        <option value="$PROJECT_DIR$/source/_includes/mini-header.html" />
         <option value="$PROJECT_DIR$/source/_layouts/default.html" />
         <option value="$PROJECT_DIR$/../../stitchfix/spectre/config/database.yml" />
         <option value="$PROJECT_DIR$/../../stitchfix/king_mob/config/database.yml" />
         <option value="$PROJECT_DIR$/../../stitchfix/transmetro/config/database.yml" />
         <option value="$PROJECT_DIR$/sass/plugins/_rve.scss" />
-        <option value="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
-        <option value="$PROJECT_DIR$/sass/screen.scss" />
         <option value="$PROJECT_DIR$/sass/_plugins.scss" />
+        <option value="$PROJECT_DIR$/sass/base/_typography.scss" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/header.html" />
+        <option value="$PROJECT_DIR$/source/_layouts/hero.html" />
+        <option value="$PROJECT_DIR$/sass/parts/_about.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_colors.scss" />
+        <option value="$PROJECT_DIR$/sass/base/_color.scss" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/about.html" />
+        <option value="$PROJECT_DIR$/sass/parts/_header.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_color.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_skins.scss" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
+        <option value="$PROJECT_DIR$/sass/custom/_layout.scss" />
+        <option value="$PROJECT_DIR$/sass/screen.scss" />
+        <option value="$PROJECT_DIR$/source/_includes/asides/about.html" />
+        <option value="$PROJECT_DIR$/source/_includes/navigation.html" />
+        <option value="$PROJECT_DIR$/source/_includes/head.html" />
+        <option value="$PROJECT_DIR$/source/_includes/header.html" />
+        <option value="$PROJECT_DIR$/source/_includes/mini-header.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1622" />
-    <option name="y" value="-116" />
-    <option name="width" value="1397" />
-    <option name="height" value="878" />
+    <option name="x" value="53" />
+    <option name="y" value="32" />
+    <option name="width" value="1377" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -270,6 +257,100 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asides" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -292,6 +373,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -300,7 +417,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.sourceCode.HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../stitchfix/spectre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -317,7 +434,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
@@ -334,7 +451,11 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
@@ -347,7 +468,7 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
@@ -360,14 +481,8 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -399,142 +514,51 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1622" y="-116" width="1397" height="878" extended-state="6" />
+    <frame x="53" y="32" width="1377" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27730063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2353812" sideWeight="0.5723432" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23819898" sideWeight="0.8556876" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2353812" sideWeight="0.42765686" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23819898" sideWeight="0.14455782" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285151" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23410405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../stitchfix/transmetro/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/sass/_plugins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="13" selection-start="410" selection-end="410" vertical-scroll-proportion="0.38388625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../stitchfix/king_mob/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="0" selection-end="410" vertical-scroll-proportion="0.25592417" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../stitchfix/spectre/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="136" selection-end="154" vertical-scroll-proportion="0.08530806" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="487" selection-end="487" vertical-scroll-proportion="0.24733269" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="16" selection-end="16" vertical-scroll-proportion="0.014548982" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="0.14548981" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="10" selection-start="643" selection-end="643" vertical-scroll-proportion="0.24733269" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_layouts/hero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="-6.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/octopress-responsive-video-embed-master/_rve.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
           <folding />
         </state>
       </provider>
@@ -544,42 +568,325 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="25" selection-start="989" selection-end="989" vertical-scroll-proportion="-11.666667">
+        <state line="21" column="25" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../stitchfix/transmetro/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="410" selection-end="410" vertical-scroll-proportion="0.38388625" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../stitchfix/king_mob/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="0" selection-end="410" vertical-scroll-proportion="0.25592417" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../stitchfix/spectre/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="136" selection-end="154" vertical-scroll-proportion="0.08530806" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="16" selection-end="16" vertical-scroll-proportion="0.014548982" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="10" selection-start="643" selection-end="643" vertical-scroll-proportion="0.24733269" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sass/plugins/_plugins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.119521916">
+        <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/plugins/_flickr.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/plugins/_rve.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3256705" vertical-offset="0" max-vertical-offset="783">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+    <entry file="file://$USER_HOME$/Downloads/octopress-responsive-video-embed-master/_rve.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3256705" vertical-offset="0" max-vertical-offset="783">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="6090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/parts/_syntax.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="24" selection-start="3025" selection-end="3025" vertical-scroll-proportion="-10.5" vertical-offset="2028" max-vertical-offset="5895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_layouts/category_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="71" selection-start="2030" selection-end="2030" vertical-scroll-proportion="0.23346303" vertical-offset="630" max-vertical-offset="1590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.375" vertical-offset="0" max-vertical-offset="760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_layouts/hero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="3" selection-start="423" selection-end="423" vertical-scroll-proportion="-4.0384617" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_solarized.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_links.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="1" selection-start="612" selection-end="612" vertical-scroll-proportion="-18.708334" vertical-offset="106" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="154" selection-end="154" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_color.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="207" selection-end="207" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_parts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_plugins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_partials.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="21" selection-start="1612" selection-end="1612" vertical-scroll-proportion="-17.666666" vertical-offset="206" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sass-cache/d632fb34aa57f04785ceced6a5a9cdc5186ca154/_footer.scssc">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="810" selection-end="810" vertical-scroll-proportion="0.64579254" vertical-offset="0" max-vertical-offset="511">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/partials/_syntax.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="14" selection-start="11344" selection-end="11344" vertical-scroll-proportion="0.3493014" vertical-offset="3350" max-vertical-offset="4005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_color.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_footnote.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_skins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/parts/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="91" selection-end="91" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="107" selection-end="107" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="296" selection-end="296" vertical-scroll-proportion="0.14591439" vertical-offset="0" max-vertical-offset="514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.25139666" vertical-offset="0" max-vertical-offset="537">
           <folding />
         </state>
       </provider>
