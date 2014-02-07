@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1059a6-e8c0-40f5-b20b-368d2055989e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="$PROJECT_DIR$/public/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/jesus/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/jesus/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/poopmouth/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/poopmouth/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/roleplay/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/roleplay/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/zapfino-font/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/zapfino-font/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/header.html" afterPath="$PROJECT_DIR$/source/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/index.html" afterPath="$PROJECT_DIR$/public/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" afterPath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" afterPath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="$PROJECT_DIR$/public/blog/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/cards/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/cards/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/hydroponics/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/hydroponics/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/jesus/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/jesus/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/poopmouth/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/poopmouth/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/roleplay/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/roleplay/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/zapfino-font/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/zapfino-font/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/mini-header.html" afterPath="$PROJECT_DIR$/source/_includes/mini-header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="octopress.iws" />
@@ -53,16 +31,16 @@
       <file leaf-file-name="_skins.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/custom/_skins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_header.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/parts/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="960">
+            <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="0.019736841" vertical-offset="0" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -71,7 +49,7 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="91" selection-end="91" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+            <state line="2" column="21" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -80,7 +58,7 @@
       <file leaf-file-name="nav.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="30" selection-start="107" selection-end="107" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="180">
+            <state line="2" column="30" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
@@ -89,7 +67,7 @@
       <file leaf-file-name="navigation.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+            <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -98,16 +76,16 @@
       <file leaf-file-name="mini-header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="348" selection-end="348" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
+            <state line="7" column="24" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="72" selection-start="113" selection-end="113" vertical-scroll-proportion="0.02918288" vertical-offset="0" max-vertical-offset="514">
+            <state line="10" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -116,7 +94,7 @@
       <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="405">
+            <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -125,7 +103,7 @@
       <file leaf-file-name="_footnote.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/custom/_footnote.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -182,10 +160,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="32" />
-    <option name="width" value="1377" />
-    <option name="height" value="858" />
+    <option name="x" value="43" />
+    <option name="y" value="22" />
+    <option name="width" value="1397" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -518,16 +496,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="32" width="1377" height="858" extended-state="0" />
+    <frame x="43" y="22" width="1397" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27730063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23819898" sideWeight="0.8556876" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23765211" sideWeight="0.8556876" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23819898" sideWeight="0.14455782" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -536,6 +513,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27730063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23410405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -560,11 +538,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sass/_plugins.scss">
+    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+        <state line="10" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_footnote.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_plugins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown">
@@ -572,9 +569,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="25" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
-          <folding />
-        </state>
+        <state line="21" column="25" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
@@ -611,180 +606,130 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/plugins/_plugins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/plugins/_flickr.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/plugins/_rve.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3256705" vertical-offset="0" max-vertical-offset="783">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3256705" vertical-offset="0" max-vertical-offset="783" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/octopress-responsive-video-embed-master/_rve.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3256705" vertical-offset="0" max-vertical-offset="783">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3256705" vertical-offset="0" max-vertical-offset="783" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="6090">
-          <folding />
-        </state>
+        <state line="25" column="0" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="6090" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/parts/_syntax.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="24" selection-start="3025" selection-end="3025" vertical-scroll-proportion="-10.5" vertical-offset="2028" max-vertical-offset="5895">
-          <folding />
-        </state>
+        <state line="152" column="24" selection-start="3025" selection-end="3025" vertical-scroll-proportion="-10.5" vertical-offset="2028" max-vertical-offset="5895" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_layouts/category_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/custom/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="71" selection-start="2030" selection-end="2030" vertical-scroll-proportion="0.23346303" vertical-offset="630" max-vertical-offset="1590">
-          <folding />
-        </state>
+        <state line="54" column="71" selection-start="2030" selection-end="2030" vertical-scroll-proportion="0.23346303" vertical-offset="630" max-vertical-offset="1590" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.375" vertical-offset="0" max-vertical-offset="760">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.375" vertical-offset="0" max-vertical-offset="760" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_layouts/hero.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="423" selection-end="423" vertical-scroll-proportion="-4.0384617" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="3" selection-start="423" selection-end="423" vertical-scroll-proportion="-4.0384617" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_solarized.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_links.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="1" selection-start="612" selection-end="612" vertical-scroll-proportion="-18.708334" vertical-offset="106" max-vertical-offset="645">
-          <folding />
-        </state>
+        <state line="37" column="1" selection-start="612" selection-end="612" vertical-scroll-proportion="-18.708334" vertical-offset="106" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_theme.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/custom/_styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="154" selection-end="154" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="2" column="14" selection-start="154" selection-end="154" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_color.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="207" selection-end="207" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="6" column="22" selection-start="207" selection-end="207" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_parts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_plugins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_partials.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/custom/_colors.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="21" selection-start="1612" selection-end="1612" vertical-scroll-proportion="-17.666666" vertical-offset="206" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="42" column="21" selection-start="1612" selection-end="1612" vertical-scroll-proportion="-17.666666" vertical-offset="206" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/custom/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.sass-cache/d632fb34aa57f04785ceced6a5a9cdc5186ca154/_footer.scssc">
@@ -792,42 +737,79 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="810" selection-end="810" vertical-scroll-proportion="0.64579254" vertical-offset="0" max-vertical-offset="511">
-          <folding />
-        </state>
+        <state line="22" column="14" selection-start="810" selection-end="810" vertical-scroll-proportion="0.64579254" vertical-offset="0" max-vertical-offset="511" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/partials/_syntax.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="14" selection-start="11344" selection-end="11344" vertical-scroll-proportion="0.3493014" vertical-offset="3350" max-vertical-offset="4005">
-          <folding />
-        </state>
+        <state line="235" column="14" selection-start="11344" selection-end="11344" vertical-scroll-proportion="0.3493014" vertical-offset="3350" max-vertical-offset="4005" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
+        <state line="4" column="22" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="210" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/custom/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
+        <state line="8" column="24" selection-start="299" selection-end="299" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="420" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/custom/_color.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="375">
+        <state line="6" column="22" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_skins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
@@ -839,58 +821,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/custom/_skins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="514">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/parts/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="91" selection-end="91" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="107" selection-end="107" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="1553" selection-end="1553" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/mini-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="348" selection-end="348" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="72" selection-start="113" selection-end="113" vertical-scroll-proportion="0.02918288" vertical-offset="0" max-vertical-offset="514">
+        <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="0.019736841" vertical-offset="0" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
