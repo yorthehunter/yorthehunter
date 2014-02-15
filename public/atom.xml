@@ -4,7 +4,7 @@
   <title><![CDATA[Brian Cleveland]]></title>
   <link href="http://yorthehunter.github.io/atom.xml" rel="self"/>
   <link href="http://yorthehunter.github.io/"/>
-  <updated>2014-02-15T17:54:42-05:00</updated>
+  <updated>2014-02-15T18:05:45-05:00</updated>
   <id>http://yorthehunter.github.io/</id>
   <author>
     <name><![CDATA[Brian Cleveland]]></name>
@@ -19,50 +19,14 @@
     <id>http://yorthehunter.github.io/blog/2014/02/15/day-one</id>
     <content type="html"><![CDATA[<p>This is it. I’ve decided to keep track of things I find interesting as a way to journal my existence. I will try to keep it all internet savvy: user experience, cult movies, digital artwork, cats, toys, babies in flowers, and so on in that fashion.</p>
 
+<!-- more -->
+
+
 <p>Preemptively, I’ve also written up a set of goals, both personal and public. I’ve also spent about eleven seconds writing a <a href="http://youtu.be/En9rx7M3TNs">blurb</a> about myself on the <a href="http://yorthehunter.github.io/">homepage</a>.</p>
 
 <h2>Reluctance</h2>
 
 <p>I also want to share my reluctance about writing content on the world wide webz.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[some other fucking thing]]></title>
-    <link href="http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing/"/>
-    <updated>2014-01-20T12:16:30-05:00</updated>
-    <id>http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing</id>
-    <content type="html"><![CDATA[<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
-</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
-</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
-</span><span class='line'>  <span class="k">end</span>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<!-- more -->
-
-
-
-
-<!-- <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/iOvaSOFLtJU "></iframe></div> &#8211;>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test post]]></title>
-    <link href="http://yorthehunter.github.io/blog/2013/12/15/test-post/"/>
-    <updated>2013-12-15T21:41:37-05:00</updated>
-    <id>http://yorthehunter.github.io/blog/2013/12/15/test-post</id>
-    <content type="html"><![CDATA[<p><i class="fa fa-dot-circle-o"></i></p>
 ]]></content>
   </entry>
   

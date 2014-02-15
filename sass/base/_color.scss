@@ -1,7 +1,20 @@
-$color-background: #eee !default;
 $color-main: #258fb8 !default;
-$color-gray01: #333 !default;
-$color-gray02: #999 !default;
-$color-gray03: #ccc !default;
-$color-gray04: #ddd !default;
-$color-gray05: #f0f0f0 !default;
+
+$color-background: #FFFFFF;
+$color-gray01: #666;
+$color-gray02: #999;
+$color-gray03: #ccc;
+$color-gray04: #ddd;
+$color-gray05: #f0f0f0;
+
+$orange: #f7be1e;
+$orange-dim: #cc8200;
+$orange-bright: #ffe088;
+$blue: #258fb8;
+$blue-dim: shade(#258fb8, 35%);
+$blue-bright: tint(#258fb8, 35%);
+
+$link-base-color: $blue;
+$link-visited-color: $blue;
+$link-hover-color: $blue-dim;
+$link-active-color: $blue-bright;
