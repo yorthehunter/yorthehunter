@@ -3,7 +3,8 @@ layout: post
 title: "test post"
 date: 2013-12-15 21:41:37 -0500
 comments: true
-categories: 
+categories:
+published: false
 ---
 
 <i class="fa fa-dot-circle-o"></i>
