@@ -62,18 +62,18 @@ article{
 		p{
 			margin-top: 10px;
 		}
-		h2{
-			font-weight: 300;
-			border-bottom: 1px solid $color-gray04;
-			position: relative;
-			&:before{
-				content: "";
-				position: absolute;
-				bottom: -2px;
-				border-bottom: 1px solid $color-gray05;
-				width: 100%;
-			}
-		}
+//		h2{
+//			font-weight: 300;
+//			border-bottom: 1px solid $color-gray04;
+//			position: relative;
+//			&:before{
+//				content: "";
+//				position: absolute;
+//				bottom: -2px;
+//				border-bottom: 1px solid $color-gray05;
+//				width: 100%;
+//			}
+//		}
 
 		img, video{
 			max-width: 100%;

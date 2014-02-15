@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Day One: The Revenge"
+date: 2014-02-15 13:44:47 -0500
+comments: true
+categories: 
+---
+
+This is it. I’ve decided to keep track of things I find interesting as a way to journal my existence. I will try to keep it all internet savvy: user experience, cult movies, digital artwork, cats, toys, babies in flowers, and so on in that fashion.
+
+Preemptively, I’ve also written up a set of goals, both personal and public. I’ve also spent about eleven seconds writing a [blurb](http://youtu.be/En9rx7M3TNs) about myself on the [homepage]({{ "/" }}).
+
+
+Reluctance
+----------
+I also want to share my reluctance about writing content on the world wide webz.
