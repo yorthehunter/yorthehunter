@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1059a6-e8c0-40f5-b20b-368d2055989e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2013-12-15-test-post.markdown" afterPath="$PROJECT_DIR$/source/_posts/2013-12-15-test-post.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" afterPath="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/about.html" afterPath="$PROJECT_DIR$/source/_includes/asides/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="$PROJECT_DIR$/public/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/jesus/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/jesus/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/poopmouth/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/poopmouth/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/roleplay/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/roleplay/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/silver-spoons-sitcom/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/zapfino-font/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/zapfino-font/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/generated" afterPath="$PROJECT_DIR$/public/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/index.html" afterPath="$PROJECT_DIR$/public/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="$PROJECT_DIR$/public/blog/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="octopress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,13 +61,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-01-20-some-other-fucking-thing.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-01-20-some-other-fucking-thing.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="16" selection-start="211" selection-end="211" vertical-scroll-proportion="0.18072289" vertical-offset="0" max-vertical-offset="498">
+            <state line="6" column="16" selection-start="211" selection-end="211" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -71,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="33" selection-start="126" selection-end="126" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="375">
+            <state line="3" column="22" selection-start="115" selection-end="115" vertical-scroll-proportion="0.087548636" vertical-offset="0" max-vertical-offset="514">
               <folding />
             </state>
           </provider>
@@ -174,7 +188,6 @@
         <option value="$PROJECT_DIR$/source/_includes/mini-header.html" />
         <option value="$PROJECT_DIR$/source/_includes/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/source/_includes/asides/about.html" />
         <option value="$PROJECT_DIR$/plugins/notify.rb" />
         <option value="$PROJECT_DIR$/Guardfile" />
         <option value="$PROJECT_DIR$/Gemfile" />
@@ -182,6 +195,7 @@
         <option value="$PROJECT_DIR$/source/_posts/2014-02-15-day-one.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2013-12-15-test-post.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
+        <option value="$PROJECT_DIR$/source/_includes/asides/about.html" />
       </list>
     </option>
   </component>
@@ -832,13 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="126" selection-end="126" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/parts/_article.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="8" selection-start="934" selection-end="1188" vertical-scroll-proportion="-8.75" vertical-offset="750" max-vertical-offset="2535">
@@ -907,7 +914,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="211" selection-end="211" vertical-scroll-proportion="0.18072289" vertical-offset="0" max-vertical-offset="498">
+        <state line="6" column="16" selection-start="211" selection-end="211" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="115" selection-end="115" vertical-scroll-proportion="0.087548636" vertical-offset="0" max-vertical-offset="514">
           <folding />
         </state>
       </provider>

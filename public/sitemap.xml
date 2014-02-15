@@ -1,24 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://yorthehunter.github.io/blog/2013/12/15/test-post/</loc>
+        <lastmod>2014-02-15T17:40:39-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yorthehunter.github.io/blog/2014/01/20/some-other-fucking-thing/</loc>
+        <lastmod>2014-02-15T17:40:43-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://yorthehunter.github.io/blog/2014/02/15/day-one/</loc>
         <lastmod>2014-02-15T15:02:23-05:00</lastmod>
     </url>
     <url>
         <loc>http://yorthehunter.github.io/archives/</loc>
-        <lastmod>2014-02-15T15:02:23-05:00</lastmod>
+        <lastmod>2014-02-15T17:40:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://yorthehunter.github.io/blog/archives/</loc>
-        <lastmod>2014-02-15T15:02:23-05:00</lastmod>
+        <lastmod>2014-02-15T17:40:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://yorthehunter.github.io/blog/</loc>
-        <lastmod>2014-02-15T15:02:23-05:00</lastmod>
+        <lastmod>2014-02-15T17:40:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://yorthehunter.github.io/</loc>
-        <lastmod>2014-02-15T15:02:23-05:00</lastmod>
+        <lastmod>2014-02-15T17:40:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://yorthehunter.github.io/robots.txt</loc>
