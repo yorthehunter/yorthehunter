@@ -4,7 +4,7 @@
 
 url: http://yorthehunter.github.io
 title: Brian Cleveland
-subtitle: There's no basement in the Alamo.
+subtitle: There's no basement at the Alamo.
 author: Brian Cleveland
 simple_search: http://google.com/search
 description:
@@ -94,7 +94,7 @@ disqus_short_name: yorthehunter
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-48093890-1
 
 # Facebook Like
 facebook_like: false
