@@ -15,7 +15,9 @@ group :development do
   gem 'stringex', '~> 1.4.0'
   gem 'liquid', '~> 2.3.0'
   gem 'directory_watcher', '1.4.1'
-  gem 'guard-livereload', require: false
+  gem 'guard'
+  gem 'guard-livereload'
+  gem 'rb-inotify'
 end
 
 gem 'sinatra', '~> 1.4.2'
