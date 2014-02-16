@@ -2,6 +2,9 @@ $header-height: 30px;
 $header-color: $orange;
 
 .header-mini {
+  padding: 50px 0;
+  background-color: $header-color;
+
   a {
     color: white;
   }
@@ -45,12 +48,6 @@ $header-color: $orange;
     font-weight: 100;
     line-height: 1.6;
   }
-}
-
-.header-mini {
-  padding: 50px 0;
-  background-color: $header-color;
-  margin-bottom: 50px;
 }
 
 .tagline {
