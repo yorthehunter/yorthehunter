@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://yorthehunter.github.io/sitemap.xml 
+Sitemap: http://www.borudesign.net/sitemap.xml 
