@@ -20,33 +20,40 @@ body{
 	}
 }
 
-h1{
 
-}
-h2{
+// FOOTNOTES
 
-}
-h3{
-
-}
-
-
-a:hover {
+sup, sub {
+  padding: 0 0.2em;
+  display: inline;
+  font-size: 80%
 }
 
-.alignleft{
-	float: left;
+.footnotes {
+  font-size: 80%;
 }
-.alignright{
-	float: right;
+
+
+// UTILITY CLASSES
+
+.text-c {
+  text-align: center;
 }
-.clearfix{
-	@include pie-clearfix;
+
+.alignleft {
+  float: left;
 }
-.inner{
-	width: $max-width;
-	margin: 0 auto;
-	@media screen and (max-width: 1040px){
-		width: 100%;
-	}
+
+.alignright {
+  float: right;
+}
+
+.clearfix { @include pie-clearfix; }
+
+.inner {
+  width: $max-width;
+  margin: 0 auto;
+  @media screen and (max-width: 1040px) {
+    width: 100%;
+  }
 }
