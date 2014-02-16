@@ -3,7 +3,8 @@ layout: post
 title: "Day One: The Revenge"
 date: 2014-02-15 13:44:47 -0500
 comments: true
-categories: 
+categories:
+published: false
 ---
 
 This is it. I’ve decided to keep track of things I find interesting as a way to journal my existence. I will try to keep it all internet savvy: user experience, cult movies, digital artwork, cats, toys, babies in flowers, and so on in that fashion.
