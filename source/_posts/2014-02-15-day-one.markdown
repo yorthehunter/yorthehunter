@@ -7,11 +7,11 @@ categories:
 published: true
 ---
 
-This is it. I’ve decided to keep track of things I find interesting as a way to journal my existence. I will try to keep it all internet savvy: user experience, cult movies, digital artwork, cats, toys, babies in flowers, and so on in that fashion.
+This is it. I've decided to keep track of things I find interesting as a way to journal my existence. I will try to keep it all internet savvy: user experience, cult movies, digital artwork, cats, toys, babies in flowers, and so on in that fashion.
 
 <!-- more -->
 
-Preemptively, I’ve also written up a set of goals, both personal and public. I’ve also spent about eleven seconds writing a [blurb](http://youtu.be/En9rx7M3TNs) about myself on the [homepage]({{ root_url }}/).
+Preemptively, I've also written up a set of goals, both personal and public. I've also spent about eleven seconds writing a [blurb](http://youtu.be/En9rx7M3TNs) about myself on the [homepage]({{ root_url }}/).
 
 Reluctance
 ----------
@@ -30,11 +30,10 @@ So maybe I just shoehorned a UX process into my own life. I'm ok with that.
 ### So what is so intimidating?
 
 * Sharing something that defines this point in time and having it be immortalized by the world wide web
-* Not being allowed to go back and edit/remove/justify something said in the past.
+* Not allowing myself to go back and edit/remove/justify something said in the past.
 * Spending my scant few free minutes journaling an existence that is not worth sharing (cue hangdog, sad charlie brown theme)
-* The need to properly fill an important internet role: witty, clever, and/or intelligent. This won’t always happen. Hell, this may never happen.
+* The need to properly fill an important internet role: witty, clever, and/or intelligent. This won't always happen. Hell, this may never happen.
 * Bad: having a brutal audience. Worse: having absolutely no audience.
-
 
 {% youtube oabcM9SOF-E %}
 
@@ -43,6 +42,7 @@ So maybe I just shoehorned a UX process into my own life. I'm ok with that.
 * get my teeth into the internet
 * own a public place for my airing of grievances
 * develop a timeline of personal growth or decay
+
 #### My public goals:
 * Be unabashedly corrected by the internet grammar police
 * Pose questions to the entire world just to have them be universally ignored (7 billion people can't be wrong!)
