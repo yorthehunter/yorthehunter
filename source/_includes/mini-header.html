@@ -1,12 +1,18 @@
 <header id="header" class="header-mini">
-  <div class="inner">
-    <a href="{{ root_url }}/">{% img logo-image /images/logo-rd-orange.svg 76 76 Brian Cleveland, presented by Poopmouth the Cat %}</a>
-    <h1 class="alignright h2">
+  <div class="inner clearfix">
+    <div class="alignleft">
       <a href="{{ root_url }}/">
-        {{ site.title }}
+        {% img logo-image /images/logo-rd-orange.svg 76 76 Brian Cleveland, presented by Poopmouth the Cat %}
       </a>
-    </h1>
-    <h2 class="alignright h3">{{ site.subtitle }}</h2>
+    </div>
+    <div class="alignright">
+      <h1 class="h2">
+        <a href="{{ root_url }}/">
+          {{ site.title }}
+        </a>
+      </h1>
+      <h2 class="h4 tagline">{{ site.subtitle }}</h2>
+    </div>
   </div>
 </header>
 {% include nav.html %}
