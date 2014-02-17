@@ -18,6 +18,7 @@ group :development do
   gem 'guard'
   gem 'guard-livereload'
   gem 'rb-inotify'
+  gem 'nokogiri'
 end
 
 gem 'sinatra', '~> 1.4.2'

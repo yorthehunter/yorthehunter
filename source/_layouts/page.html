@@ -1,9 +1,12 @@
 ---
-layout: hero
+layout: default
 ---
 
 <article class="page">
-    <div class="entry-content">{{ content }}</div>
+    <div class="entry-content">
+      {{ content }}
+      {% google_form 1jbpeV6jDQJlcm6oMhjdwut4M_Fcgl7S-lpD-ou5o-7Y "Many thanks!" %}
+    </div>
 </article>
 
 {% if site.disqus_short_name and page.comments == true %}
