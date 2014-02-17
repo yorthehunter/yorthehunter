@@ -4,16 +4,48 @@ title: "Day One: The Revenge"
 date: 2014-02-15 13:44:47 -0500
 comments: true
 categories:
-published: false
+published: true
 ---
 
 This is it. I’ve decided to keep track of things I find interesting as a way to journal my existence. I will try to keep it all internet savvy: user experience, cult movies, digital artwork, cats, toys, babies in flowers, and so on in that fashion.
 
 <!-- more -->
 
-Preemptively, I’ve also written up a set of goals, both personal and public. I’ve also spent about eleven seconds writing a [blurb](http://youtu.be/En9rx7M3TNs) about myself on the [homepage]({{ "/" }}).
-
+Preemptively, I’ve also written up a set of goals, both personal and public. I’ve also spent about eleven seconds writing a [blurb](http://youtu.be/En9rx7M3TNs) about myself on the [homepage]({{ root_url }}/).
 
 Reluctance
 ----------
-I also want to share my reluctance about writing content on the world wide webz.
+I also want to share my reluctance about writing content on the world wide webz. Not everyone needs nor deserves a major vocal outlet on the internet. I've made it a point in my life to try and *earn* the right to share an opinion. Maybe that's wrong, but it's the way I do it.
+
+In the case of this web space, I've thought long and hard about how I wanted to present myself and it's damned intimidating. I've decided to do it like I do most things: in bite-sized, digestible chunks, with rapidity and amorphousness. So what does this mean? Basically, I do what I want, when I want, but not with impunity.
+
+Rapid Prototyping as Applied to Personal Opinion
+------------------------------------------------
+So I guess what I'm aiming to do is apply some theories of [rapid prototyping](http://www.smashingmagazine.com/2010/06/16/design-better-faster-with-rapid-prototyping/) to my public expression of opinion. How might that work? Well, I've not overthought it (keeping in line with the "rapid" part), so I'll here's the quick-and-dirty of it:
+
+An interactive prototype helps quickly define and express core functions of a multifaceted problem. It's a strong hint towards a fully-interactive final product. In my case, this website is the prototype, the content is the core function, and my reluctance is the problem. My goal is it iterate on this until the problem is solved.
+
+So maybe I just shoehorned a UX process into my own life. I'm ok with that.
+
+### So what is so intimidating?
+
+* Sharing something that defines this point in time and having it be immortalized by the world wide web
+* Not being allowed to go back and edit/remove/justify something said in the past.
+* Spending my scant few free minutes journaling an existence that is not worth sharing (cue hangdog, sad charlie brown theme)
+* The need to properly fill an important internet role: witty, clever, and/or intelligent. This won’t always happen. Hell, this may never happen.
+* Bad: having a brutal audience. Worse: having absolutely no audience.
+
+
+{% youtube oabcM9SOF-E %}
+
+### TL;DR version
+#### My personal goals:
+* get my teeth into the internet
+* own a public place for my airing of grievances
+* develop a timeline of personal growth or decay
+#### My public goals:
+* Be unabashedly corrected by the internet grammar police
+* Pose questions to the entire world just to have them be universally ignored (7 billion people can't be wrong!)
+* Hopefully provide some insight to others that wasn't already recognized somewhere else on the internet
+
+

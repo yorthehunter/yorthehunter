@@ -10,6 +10,10 @@ $header-color: $orange;
   }
   .h2 {
     line-height: 76px;
+    margin: 0;
+  }
+  .h3 {
+    margin: 0;
   }
 }
 
@@ -25,6 +29,7 @@ $header-color: $orange;
   h1 {
     font-size: 70px;
     line-height: 1.6;
+    margin: 0;
 
     a {
       position: relative;
@@ -47,6 +52,7 @@ $header-color: $orange;
     font-size: 32px;
     font-weight: 100;
     line-height: 1.6;
+    margin: 0;
   }
 }
 
