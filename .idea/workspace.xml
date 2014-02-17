@@ -4,7 +4,6 @@
     <list default="true" id="1c1059a6-e8c0-40f5-b20b-368d2055989e" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2013/12/15/test-post/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/01/20/some-other-fucking-thing/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/02/15/day-one/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/cards/atom.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/cards/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/hydroponics/atom.xml" afterPath="" />
@@ -21,20 +20,19 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/zapfino-font/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.ico.BAK" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.png.BAK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_main.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sass/partials/_google_form.scss" afterPath="$PROJECT_DIR$/sass/parts/_google_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/parts/_article.scss" afterPath="$PROJECT_DIR$/sass/parts/_article.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_partials.scss" afterPath="$PROJECT_DIR$/sass/_partials.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_parts.scss" afterPath="$PROJECT_DIR$/sass/_parts.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="$PROJECT_DIR$/public/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/generated" afterPath="$PROJECT_DIR$/public/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/index.html" afterPath="$PROJECT_DIR$/public/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2014/02/15/day-one/index.html" afterPath="$PROJECT_DIR$/public/blog/2014/02/15/day-one/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="$PROJECT_DIR$/public/blog/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/octopress.iml" afterPath="$PROJECT_DIR$/.idea/octopress.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/page.html" afterPath="$PROJECT_DIR$/source/_layouts/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact/index.html" afterPath="$PROJECT_DIR$/public/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/contact/index.markdown" afterPath="$PROJECT_DIR$/source/contact/index.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/screen.css" afterPath="$PROJECT_DIR$/public/stylesheets/screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -63,24 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="560" selection-end="560" vertical-scroll-proportion="-13.846154" vertical-offset="0" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google_form.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/javascripts/libs/google_form.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="3" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,9 +80,27 @@
         </entry>
       </file>
       <file leaf-file-name="_google_form.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sass/partials/_google_form.scss">
+        <entry file="file://$PROJECT_DIR$/sass/parts/_google_form.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="3" selection-start="473" selection-end="473" vertical-scroll-proportion="0.53763443" vertical-offset="0" max-vertical-offset="837">
+            <state line="23" column="19" selection-start="375" selection-end="375" vertical-scroll-proportion="0.32455316" vertical-offset="0" max-vertical-offset="1063">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_article.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/parts/_article.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="13" selection-start="1968" selection-end="1968" vertical-scroll-proportion="-5.4" vertical-offset="1440" max-vertical-offset="2520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_parts.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_parts.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="14" selection-start="227" selection-end="227" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -111,7 +109,16 @@
       <file leaf-file-name="_partials.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/_partials.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+            <state line="8" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="12" selection-start="65" selection-end="65" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -120,7 +127,7 @@
       <file leaf-file-name="index.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/contact/index.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="12" selection-start="98" selection-end="98" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="210">
+            <state line="8" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -133,16 +140,9 @@
         <entry file="file://$PROJECT_DIR$/source/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google_form.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/google_form.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-              <folding />
+              <folding>
+                <marker date="1392669319000" expanded="true" signature="78:193" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,9 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/source/blog/index.html" />
-        <option value="$PROJECT_DIR$/source/_layouts/default.html" />
         <option value="$PROJECT_DIR$/../../stitchfix/spectre/config/database.yml" />
         <option value="$PROJECT_DIR$/../../stitchfix/king_mob/config/database.yml" />
         <option value="$PROJECT_DIR$/../../stitchfix/transmetro/config/database.yml" />
@@ -182,7 +179,6 @@
         <option value="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
         <option value="$PROJECT_DIR$/plugins/notify.rb" />
         <option value="$PROJECT_DIR$/Guardfile" />
-        <option value="$PROJECT_DIR$/sass/parts/_article.scss" />
         <option value="$PROJECT_DIR$/source/_posts/2013-12-15-test-post.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-01-20-some-other-fucking-thing.markdown" />
         <option value="$PROJECT_DIR$/source/_includes/asides/about.html" />
@@ -213,9 +209,13 @@
         <option value="$PROJECT_DIR$/source/javascripts/libs/google_form.js" />
         <option value="$PROJECT_DIR$/plugins/google_form.rb" />
         <option value="$PROJECT_DIR$/source/_includes/head.html" />
-        <option value="$PROJECT_DIR$/sass/partials/_google_form.scss" />
         <option value="$PROJECT_DIR$/source/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/sass/partials/_google_form.scss" />
         <option value="$PROJECT_DIR$/sass/_partials.scss" />
+        <option value="$PROJECT_DIR$/sass/_parts.scss" />
+        <option value="$PROJECT_DIR$/source/contact/index.markdown" />
+        <option value="$PROJECT_DIR$/sass/parts/_article.scss" />
+        <option value="$PROJECT_DIR$/sass/parts/_google_form.scss" />
       </list>
     </option>
   </component>
@@ -348,6 +348,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -373,6 +391,7 @@
       <recent name="$PROJECT_DIR$/source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sass/parts" />
       <recent name="$PROJECT_DIR$/sass/base" />
     </key>
   </component>
@@ -493,7 +512,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20269059" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20269059" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17210527" sideWeight="0.8556876" order="0" side_tool="false" content_ui="combo" />
@@ -529,27 +548,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1590">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="41" selection-start="15822" selection-end="15822" vertical-scroll-proportion="0.5925433" vertical-offset="5525" max-vertical-offset="6420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/asides/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="22" selection-start="115" selection-end="115" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="375">
@@ -591,13 +589,6 @@
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="7" selection-start="1250" selection-end="1250" vertical-scroll-proportion="0.7077326" vertical-offset="0" max-vertical-offset="763">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_parts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
@@ -677,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="71" selection-end="71" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="740">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -706,13 +690,6 @@
     <entry file="file://$PROJECT_DIR$/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="16" selection-start="126" selection-end="126" vertical-scroll-proportion="0.10135135" vertical-offset="0" max-vertical-offset="740">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/base/_links.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="279" selection-end="279" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
@@ -843,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/contact/index.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="98" selection-end="98" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.3405018" vertical-offset="0" max-vertical-offset="837">
@@ -870,20 +837,74 @@
     <entry file="file://$PROJECT_DIR$/source/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <marker date="1392669319000" expanded="true" signature="78:193" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="12" selection-start="65" selection-end="65" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_partials.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+        <state line="8" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/partials/_google_form.scss">
+    <entry file="file://$PROJECT_DIR$/sass/_parts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="3" selection-start="473" selection-end="473" vertical-scroll-proportion="0.53763443" vertical-offset="0" max-vertical-offset="837">
+        <state line="9" column="14" selection-start="227" selection-end="227" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contact/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/contact/index.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_links.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="2" selection-start="91" selection-end="133" vertical-scroll-proportion="0.07168459" vertical-offset="0" max-vertical-offset="837">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/parts/_article.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="13" selection-start="1968" selection-end="1968" vertical-scroll-proportion="-5.4" vertical-offset="1440" max-vertical-offset="2520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/plugins/_fancybox_fix.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="758" selection-end="758" vertical-scroll-proportion="0.25399813" vertical-offset="0" max-vertical-offset="1063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/parts/_google_form.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="375" selection-end="375" vertical-scroll-proportion="0.32455316" vertical-offset="0" max-vertical-offset="1063">
           <folding />
         </state>
       </provider>

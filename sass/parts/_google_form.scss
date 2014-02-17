@@ -16,11 +16,11 @@
     input {
       display: block;
       padding: 5px;
-      width: 250px;
+      width: 100%;
       font: inherit;
     }
     textarea {
-      width: 450px;
+      width: 100%;
       padding: 5px;
       font: inherit;
     }
@@ -28,5 +28,27 @@
   .ss-navigate input {
     width: auto;
     cursor: pointer;
+  }
+
+  .ss-secondary-text {
+    color: $color-gray03;
+  }
+
+  #navigation-table {
+    text-align: left;
+    background-color: transparent;
+    border: none;
+  }
+
+  #ss-submit {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: $blue;
+    border: none;
+
+    &:hover {
+      background-color: lighten($blue, 10%);
+      @include transition(background-color .3s);
+    }
   }
 }
